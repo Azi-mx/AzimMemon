@@ -13,7 +13,7 @@ I'm a full-stack developer with a passion for creating amazing web applications.
 
 
 ## 🏆 GitHub Trophies
-(https://github-profile-trophy.vercel.app/?username=Azi-mx&theme=light)
+![trophy](https://github-profile-trophy.vercel.app/?username=Azi-mx&theme=darkhub)
 
 ## 🛠️ Skills
 - **Languages**: JavaScript, Python, Java
