@@ -1,25 +1,29 @@
-Hi 👋, I'm Faizanhmed
-Driven frontend developer
-faizanahmedsy
+# Hi there, I'm Azim Bagsariya 👋
 
-faizanahmedsy
+## 🚀 About Me
+I'm a full-stack developer with a passion for creating amazing web applications. I love learning new technologies and improving my skills.
 
-🌱 I’m currently learning Svelte, Typescript
+- 🔭 I’m currently working on [My Awesome Project](https://github.com/yourusername/my-awesome-project)
+- 🌱 I’m currently learning TypeScript and GraphQL
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about JavaScript, React, Node.js, and Docker
+- 📫 How to reach me: [Email](mailto:bagsariyaa@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and photography
 
-👨‍💻 My personal website is faizanahmed.in
 
-📫 How to reach me saiyed.faizanahmed1@gmail.com
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
 
-📄 Know about my experiences https://www.linkedin.com/in/faizanahmed-saiyed/
+## 🛠️ Skills
+- **Languages**: JavaScript, Python, Java
+- **Frontend**: React, Redux, HTML5, CSS3
+- **Backend**: Node.js, Express.js, Django
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **DevOps**: Docker, Kubernetes, Jenkins
 
-Connect with me:
-https://www.linkedin.com/in/faizanahmed-saiyed/
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Portfolio](https://yourportfolio.com)
 
-Languages and Tools:
-appwrite bootstrap css3 firebase git html5 ionic java javascript nextjs postman react redux svelte tailwind typescript
-
-faizanahmedsy
-
- faizanahmedsy
-
-faizanahmedsy
