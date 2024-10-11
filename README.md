@@ -11,7 +11,8 @@ I'm a full-stack developer with a passion for creating amazing web applications.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and photography
 
-
+## 📈 GitHub Stats
+![Azim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azi-mx&show_icons=true&theme=radical)
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Azi-mx&theme=darkhub)
 
